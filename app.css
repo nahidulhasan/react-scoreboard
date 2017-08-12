@@ -1,0 +1,65 @@
+
+body{
+	background: #d5d5d5;
+	font-family: arial;
+	color: #FAFAFA;
+	text-transform: uppercase;
+}
+.scoreboard{
+	 width: 55%;
+	 position: absolute;
+	 left: 20%;
+	 
+}
+
+.header{
+  color: white;
+  background-color: black;
+  text-align: center;
+
+}
+
+.players{
+   width: 100%
+   padding-left:5px;
+
+}
+
+.player{
+   padding-left:5px;
+}
+
+.player-name{
+	background-color: black;
+    text-align: left;
+    display: inline-block;
+    width: 65%
+}
+
+.player-score{
+    display: inline-block;
+
+}
+
+.counter{
+
+}
+
+.counter-action-decrement{
+   text-align: center;
+   display: inline-block;
+   background-color: red;
+}
+
+.counter-score{
+   text-align: center;
+   display: inline-block;
+   background-color: black;
+   color: white;
+}
+
+.counter-action-increment{
+    text-align: center;
+    display: inline-block;
+    background-color: green;
+}
