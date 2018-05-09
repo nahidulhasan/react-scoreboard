@@ -1,1 +1,1 @@
-"Score Board using React" 
+Score Board using React
